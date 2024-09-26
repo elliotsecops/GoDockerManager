@@ -1,2 +1,0 @@
-docker_socket: "unix:///var/run/docker.sock"
-output_format: "table"
